@@ -5,6 +5,7 @@ Natural Language Processing
 This project is divided into 2 parts:
 
 1- First part is to calculate probabilities needed to generate the random sentence.
+
 2- Using probabilities calculated from the first part, I used it to generate random sentences until fixed number of words.
 
 
